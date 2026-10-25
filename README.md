@@ -44,5 +44,4 @@ heroku create && heroku stack:set container && git push heroku main
 ```
 Live app: <ADD LINK HERE>
 
-## AI usage
-Built with assistance from Claude (Anthropic).
+
