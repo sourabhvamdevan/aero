@@ -42,6 +42,6 @@ Offline demo with fake data: `SAMPLE_DATA=1 uvicorn app.main:app`. Tests: `cd ba
 python -m app.data   # in backend/, then commit backend/data/*.json
 heroku create && heroku stack:set container && git push heroku main
 ```
-Live app: <ADD LINK HERE>
+Live app: https://aero-q1l4.onrender.com/
 
 
